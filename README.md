@@ -1,0 +1,1 @@
+# goreleaser-repro-action-anchor
